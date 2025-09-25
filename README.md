@@ -1,1 +1,16 @@
-# aliinanana.github.io
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>alina's archive</title>
+  </head>
+  <body>
+    <h1> alina's personal archive ₊˚⊹ ᰔ </h1>
+    <h3> my photos!
+    <img src="https://lens.usercontent.google.com/image?vsrid=COyVmZmjsaa_vAEQAhgBIiQ5ZjA3MzMwZS1kYmViLTRkNzktYjYzZS0wOTgwMDI1OWU4ZDIyBiICYmkoBDj4zOf6yu-PAw&gsessionid=Dhl0jnOI1jcwfqQyCK_Qe3zRU9LT0bhT1gWSoWnNcWL-VRmG6T5hHw"> </img>
+    <p> yasaka pagoda </p>
+    <img src="https://lens.usercontent.google.com/image?vsrid=CM2AkZ70r9WW0gEQAhgBIiQ5ZDExMTQ0ZS1kMmYxLTQyNTUtYjY5NS1mZjQzY2I2ZjQ1MDYyBiICYmkoADi-gIXiy--PAw&gsessionid=9vcwM6d22PvyWIFwXGdj37brf5QbDL5aFxVfJ4XTSmiTUGrl0ut-IQ"> </img>
+    <p> my neighbor totoro studio ghibli exhibit </p>
+    <h3> my spotify playlist ᯓ★ </h3>
+    <a> href="https://open.spotify.com/playlist/32KSQfORCEpWh51o7Ztdt0?si=3tFky55lSIGKQmMr9q4riA&pi=3X3Dt7t3SBCnp" act: tomorrow </a>
+  </body>
+</html>
